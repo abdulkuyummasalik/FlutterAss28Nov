@@ -1,16 +1,4 @@
 # ass28nov
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1442" height="3203" alt="localhost_62242_(Samsung Galaxy S20 Ultra)" src="https://github.com/user-attachments/assets/3581fa13-af9f-43cb-8b35-2a3d0b777dc4" />
+<img width="1442" height="3203" alt="localhost_62242_(Samsung Galaxy S20 Ultra) (1)" src="https://github.com/user-attachments/assets/05bcebc5-6e05-49d8-8971-3004b8d6783a" />
