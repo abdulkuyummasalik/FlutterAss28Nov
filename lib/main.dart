@@ -140,7 +140,7 @@ class HomePage extends StatelessWidget {
                         Expanded(
                           child: TextField(
                             decoration: InputDecoration(
-                              hintText: 'Cari layanan, tempat ...',
+                              hintText: 'Search services, locations, etc...',
                               border: InputBorder.none,
                               isDense: true,
                             ),
